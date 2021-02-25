@@ -11,9 +11,8 @@ I value simplicity and elegance in code - the simpler your code is the easier it
 ---
 
 **Repos move update**
-I moved and renamed a lot of the repos into separate organisations.
+I created a few organisations recently to group my repos in a more logical manner (and to keep my personal account more manageable :laughing:)
 
-- [ffbinaries](https://github.com/ffbinaries) - ffbinaries-api, ffbinaries-node and ffbinaries-prebuilt have been moved to their own organisation
-- [media-extractor-api](https://github.com/vothub/media-extractor-api) - URLGent with a more fitting name; moved to vothub organisation
-- [media-coverter-api](https://github.com/vothub/media-converter-api) - Great Converto with a more fitting name; moved to vothub organisation
-- [traffic-manager-hub](https://github.com/vothub/traffic-manager-hub) and [traffic-manager-agent](https://github.com/vothub/traffic-manager-agent) - both moved to vothub organisation
+- [FFbinaries](https://github.com/ffbinaries) - ffbinaries-api, ffbinaries-node and ffbinaries-prebuilt finally got their own organisation
+- [VotHub](https://github.com/vothub) - my web services and libs grouped together - includes Media Extractor API (previously _URLGent_), Media Converter API (previously _Great Converto_), Traffic Manager Hub + Agent (names stay the same) and HostIdent API (previously _Cyberpolice Lookup_)
+- [OpenCoreCMS](https://github.com/OpenCoreCMS) - one more rename (previously _Open Publishing Platform_)
