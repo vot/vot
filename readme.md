@@ -11,7 +11,8 @@ I value simplicity and elegance in code - the simpler your code is the easier it
 ---
 
 **Repos move update**
-I created a few organisations recently to group my repos in a more logical manner (and to keep my personal account more manageable :laughing:)
+
+I created a few organisations recently to group my repos in a better way.
 
 - [FFbinaries](https://github.com/ffbinaries) - ffbinaries-api, ffbinaries-node and ffbinaries-prebuilt finally got their own organisation
 - [VotHub](https://github.com/vothub) - my web services and libs grouped together - includes Media Extractor API (previously _URLGent_), Media Converter API (previously _Great Converto_), Traffic Manager Hub + Agent (names stay the same) and HostIdent API (previously _Cyberpolice Lookup_)
